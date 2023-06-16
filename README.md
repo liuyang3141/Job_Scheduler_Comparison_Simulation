@@ -13,3 +13,6 @@ Type the command, "make" in the terminal to compile the program. The "make" comm
 
 ## Sample Run of the program
 ![](https://github.com/liuyang3141/Job_Scheduler_Comparison_Simulation/blob/main/img/Scheduler.gif)
+
+## Disclaimer
+I wrote this program as part of my computer science homework assignments at California State University East Bay. I've uploaded this particular assignment to Github as part of my portfolio. To students, you may use this as a study guide, but do not copy my work and plagiarize.
